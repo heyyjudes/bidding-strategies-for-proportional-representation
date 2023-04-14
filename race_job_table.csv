@@ -1,0 +1,15 @@
+Range,Code,Full name,Total Employed,Women,White,Black or AA,Asian,Hispanic or Latino
+0,MGR,"Management, business, and financial operations occupations","27,864",45.3,80.8,9.2,7.1,10.8
+1000,CMM,Computer and mathematical occupations,"5,688",26.2,65.4,8.5,23.3,8.3
+1300,ENG,Architecture and engineering occupations,"3,235",17.4,77,5.8,14.6,9.9
+1600,SCI,"Life, physical, and social science occupations","1,640",47.4,74.6,7.4,15.2,8.3
+2000,CMS,Community and social service occupations,"2,777",67.5,72.9,19.7,3.8,12.5
+2100,LGL,Legal occupations,"1,805",53.5,84,8.1,4.8,10.4
+2200,EDU,"Education, training, and library occupations","8,946",73.7,81.5,9.9,5.6,10.8
+2600,ENT,"Arts, design, entertainment, sports, and media occupations","3,151",50,82.9,8.2,5.7,11.1
+3000,MED,Healthcare practitioners and technical occupations,"9,639",74.3,75.6,12,9.5,9.4
+3600,SVO,Service occupations,"24,403",57.7,72.8,16.5,5.9,25.7
+4700,OFF,Sales and office occupations,"30,166",61.5,77.9,13.2,5.1,17.2
+6000,NRS,"Natural resources, construction, and maintenance occupations","13,959",5.6,86.3,7.4,2.3,33.4
+7700,PTM,"Production, transportation, and material moving occupations","19,309",24.3,74,17.3,4.7,23.7
+10000,ALL,ALL,152581,47,77.5,12.3,6.6,18
